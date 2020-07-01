@@ -87,11 +87,7 @@ section{
 }
 .client-info{
     float: left;
-    margin-left: 20px;
-}
-.client-info img{
-    width: 100px;
-    height: 100px;
+    margin-left: 20px;tg
     border-radius: 50%;
     
 }
