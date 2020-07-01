@@ -48,3 +48,28 @@ section{
     height: 600px;
  
 }
+
+.latest-work{
+   margin-left: 2%;
+}
+.latest-work h1{
+    text-align: center;
+} 
+.work{
+    width: 27%;
+    float: left;
+    margin-left: 4%;
+    box-shadow: 10px 15px 40px gray;
+    
+}
+.work img{
+    width: 100%;
+    border-radius: 5px;
+}
+.latest-bg{
+    background-image: url('../images/latest-work-bg.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border: 1px solid;
+    height: 600px;
+}
